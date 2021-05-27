@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bazl-E
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Muhammed Basil E
+- ----FlutterDev----
+- Student @ mamo collage  mansheri calicut
+- 
+
 
 <!---
 bazl-E/bazl-E is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
