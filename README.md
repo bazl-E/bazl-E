@@ -1,7 +1,7 @@
 - Muhammed Basil E
 - ----FlutterDev----
 - Student @ mamo collage  mansheri calicut
-- contact me on basil85920@gmail.com
+- contact me at basil85920@gmail.com
 - 
 
 
