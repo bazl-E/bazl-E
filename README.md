@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bazi</h1>
-<h3 align="center">final year Bachelor of Science(B. sc.) student in Computer Science, interested in latest IT technologies and the same curiosity led me in mastering domains like Mobile Application Development. A fast learner, team player who can work with challenging environment and diverse teams in combining manifold knowledge according to the requirements of the client.I have serious passion for UI effects, animations and creating intuitive, dynamic user experiences..</h3>
+final year **Bachelor of Science(B. sc.)** student in **Computer Science**, interested in latest IT technologies and the same curiosity led me in mastering domains like ***Mobile Application and web app Development***. A fast learner, team player who can work with challenging environment and diverse teams in combining manifold knowledge according to the requirements of the client.I have serious passion for UI effects, animations and creating intuitive, dynamic user experiences
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bazl-e&label=Profile%20views&color=0e75b6&style=flat" alt="bazl-e" /> </p>
 
