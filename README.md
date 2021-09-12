@@ -1,13 +1,23 @@
 
+# ![bazl-E header](https://user-images.githubusercontent.com/84278736/133001955-22b31f59-6b1b-4987-bb42-0515312d588f.png?raw=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bazl-e&label=Profile%20views&color=0e75b6&style=flat" alt="bazl-e" /> </p>
+
+<p align="center">
+<a href="https://twitter.com/mhdbasil_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhdbasil_e" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammed-basil-0a2b691b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-basil-0a2b691b2" height="30" width="40" /></a>
+<a href="https://instagram.com/bazl.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bazl.__" height="30" width="40" /></a>
+</p>
+
+
 ## Hi 👋, I'm Bazi,
 final year **Bachelor of Science(B. sc.)** student in **Computer Science**, interested in latest IT technologies and the same curiosity led me in mastering domains like ***Mobile  and web Application Development***. A fast learner, team player who can work with challenging environment and diverse teams in combining manifold knowledge according to the requirements of the client.I have serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bazl-e&label=Profile%20views&color=0e75b6&style=flat" alt="bazl-e" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bazl-e" alt="bazl-e" /></a> </p>
+
+
 
 <p align="left"> <a href="https://twitter.com/mhdbasil_e" target="blank"><img src="https://img.shields.io/twitter/follow/mhdbasil_e?logo=twitter&style=for-the-badge" alt="mhdbasil_e" /></a> </p>
 
@@ -37,9 +47,3 @@ final year **Bachelor of Science(B. sc.)** student in **Computer Science**, inte
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bazl-e&" alt="bazl-e" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mhdbasil_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhdbasil_e" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammed-basil-0a2b691b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-basil-0a2b691b2" height="30" width="40" /></a>
-<a href="https://instagram.com/bazl.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bazl.__" height="30" width="40" /></a>
-</p>
