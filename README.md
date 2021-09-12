@@ -11,6 +11,8 @@ final year **Bachelor of Science(B. sc.)** student in **Computer Science**, inte
 
 <p align="left"> <a href="https://twitter.com/mhdbasil_e" target="blank"><img src="https://img.shields.io/twitter/follow/mhdbasil_e?logo=twitter&style=for-the-badge" alt="mhdbasil_e" /></a> </p>
 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/84278736/133001361-b7f5cff4-fa66-477d-bd84-261f6ec1c57f.gif?raw=true" width="500" height="320" />
+
 - 🔭 I’m currently working on [Making awesome web with flutter](https://github.com/bazl-E/Portfolio.git)
 
 - 🌱 I’m currently learning **block state management and advanced animation in flutter**
